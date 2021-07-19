@@ -49,6 +49,16 @@ const data = [
       color: "#FFD814",
     },
   },
+  {
+    text: "Sixth Event",
+    date: "July 06 2021",
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    category: {
+      tag: "event",
+      color: "#e17b77",
+    },
+  },
 ];
 
 export default data;

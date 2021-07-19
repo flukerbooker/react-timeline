@@ -29,8 +29,9 @@ h1 {
   content: "";
   top: calc(50% - 2px);
   position: absolute;
-  width: 1860px; /* Change just this one when adding new event for containing responsive line*/
   height: 4px;
+  /* Change just this one when adding new event for containing responsive line*/
+  width: calc(370px * 6);
 }
 
 .timeline__item {
